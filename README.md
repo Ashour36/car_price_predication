@@ -1,7 +1,7 @@
 # Car Price Prediction
 
 ##  Description
-Machine learning project that predicts car prices using data preprocessing, feature engineering, and KNN model.
+End-to-End Machine Learning project for Car Price Prediction. The project includes full data preprocessing , model training using Linear Regression and KNN, hyperparameter tuning with GridSearchCV, and evaluation using multiple metrics. A Streamlit web application is developed to deploy the model and provide real-time price predictions based on user input.
 
 ##  Dataset
 Used car dataset containing features like model, year, mileage, and fuel type.
